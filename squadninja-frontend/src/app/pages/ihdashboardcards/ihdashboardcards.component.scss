@@ -1,0 +1,45 @@
+// .small-box{
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+//     margin: 16%;
+//     padding: 16%;
+//     border-radius: 8%;
+//   }
+  
+//   .small-box {
+//     height: 200%;
+//     width: 200%;
+//     display: inline-flex;
+//   }
+
+  .example-large-box {
+    height: 400%;
+    width: 400%;
+  }
+
+  .card {
+    max-width: 200%;
+  }
+  .cardGroup{
+    display: flex;
+  }
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+
+  .close{
+    float: right;
+  }
+
+
+
+
+
+
+
+
+
+
+
